@@ -32,6 +32,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--num-runs", type=int, default=10)
     parser.add_argument("--seed-start", type=int, default=0)
     parser.add_argument("--skip-missing", action=argparse.BooleanOptionalAction, default=True)
+    parser.add_argument("--plot-heatmap", action=argparse.BooleanOptionalAction, default=True)
+    parser.add_argument(
+        "--heatmap-output",
+        type=Path,
+        default=SCRIPT_DIR / "result_heatmap/plot_heatmap_raw_with_dopamine.png",
+    )
     return parser.parse_args()
 
 
@@ -104,6 +110,16 @@ def run_all(args: argparse.Namespace) -> dict[str, object]:
     manifest_path = args.result_root / "dopamine_tf_dqn_eval_manifest.json"
     manifest_path.write_text(json.dumps(manifest, indent=2, sort_keys=True), encoding="utf-8")
     print(manifest_path)
+    if args.plot_heatmap:
+        subprocess.run(
+            [
+                sys.executable,
+                str(SCRIPT_DIR / "result_heatmap/plot_heatmap.py"),
+                f"--dopamine-result-root={args.result_root}",
+                f"--output={args.heatmap_output}",
+            ],
+            check=True,
+        )
     return manifest
 
 

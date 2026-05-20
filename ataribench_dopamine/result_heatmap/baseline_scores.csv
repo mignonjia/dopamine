@@ -1,0 +1,361 @@
+row_key,label,game,score,run_count
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),air_raid,285.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),assault,115.5,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),beam_rider,189.2,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),boxing,-1.7,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),breakout,3.9,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),demon_attack,47.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),fishing_derby,-8.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),freeway,1.9,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),gopher,16.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),journey_escape,-2610.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),laser_gates,348.5,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),name_this_game,263.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),pacman,12.4,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),phoenix,238.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),qbert,500.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),riverraid,604.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),robotank,1.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),seaquest,62.0,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),tennis,-2.3,10
+gemini-3-flash-preview|structured_history|default|high,Gemini 3 Flash (High),time_pilot,210.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),air_raid,300.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),assault,136.5,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),beam_rider,198.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),boxing,-3.1,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),breakout,4.5,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),demon_attack,54.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),fishing_derby,-9.6,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),freeway,2.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),gopher,16.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),journey_escape,-4240.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),laser_gates,546.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),name_this_game,261.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),pacman,7.3,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),phoenix,274.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),qbert,430.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),riverraid,576.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),robotank,1.2,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),seaquest,70.0,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),tennis,-2.7,10
+gemini-3-flash-preview|structured_history|default|low,Gemini 3 Flash (Low),time_pilot,170.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),air_raid,270.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),assault,128.1,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),beam_rider,220.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),boxing,-6.2,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),breakout,4.1,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),demon_attack,51.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),fishing_derby,-7.6,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),freeway,1.2,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),gopher,2.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),journey_escape,-3220.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),laser_gates,611.5,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),name_this_game,280.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),pacman,27.8,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),phoenix,252.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),qbert,500.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),riverraid,601.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),robotank,1.6,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),seaquest,66.0,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),tennis,-1.5,10
+gemini-3.1-pro-preview|structured_history|default|high,Gemini 3.1 Pro (High),time_pilot,240.0,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),air_raid,297.5,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),assault,130.2,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),beam_rider,224.4,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),boxing,-6.6,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),breakout,5.1,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),demon_attack,54.0,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),fishing_derby,-7.8,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),freeway,1.6,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),gopher,4.0,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),journey_escape,-1630.0,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),laser_gates,510.5,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),name_this_game,234.0,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),pacman,23.6,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),phoenix,386.0,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),qbert,457.5,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),riverraid,618.0,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),robotank,1.9,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),seaquest,66.0,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),tennis,-1.9,10
+gemini-3.1-pro-preview|structured_history|default|low,Gemini 3.1 Pro (Low),time_pilot,300.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),air_raid,245.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),assault,170.1,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),beam_rider,184.8,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),boxing,-3.6,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),breakout,3.2,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),demon_attack,41.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),fishing_derby,-11.4,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),freeway,3.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),gopher,54.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),journey_escape,-3110.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),laser_gates,489.5,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),name_this_game,177.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),pacman,22.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),phoenix,198.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),qbert,255.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),riverraid,498.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),robotank,1.6,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),seaquest,58.0,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),tennis,-2.2,10
+gemini-2.5-flash|structured_history|off|none,Gemini 2.5 Flash (None),time_pilot,180.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),air_raid,305.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),assault,134.4,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),beam_rider,176.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),boxing,-2.3,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),breakout,5.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),demon_attack,44.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),fishing_derby,-7.111111111111111,9
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),freeway,2.4,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),gopher,24.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),journey_escape,-1000.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),laser_gates,662.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),name_this_game,232.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),pacman,27.166666666666668,12
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),phoenix,246.0,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),qbert,375.0,8
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),riverraid,201.8181818181818,11
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),robotank,2.272727272727273,11
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),seaquest,50.90909090909091,11
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),tennis,-1.4,10
+gpt-5.4|structured_history|default|high,GPT-5.4 (High),time_pilot,270.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),air_raid,307.5,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),assault,144.9,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),beam_rider,198.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),boxing,-3.8,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),breakout,5.8,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),demon_attack,47.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),fishing_derby,-10.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),freeway,2.5,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),gopher,4.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),journey_escape,-1600.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),laser_gates,820.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),name_this_game,260.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),pacman,17.9,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),phoenix,236.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),qbert,355.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),riverraid,123.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),robotank,2.1,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),seaquest,46.0,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),tennis,-0.7,10
+gpt-5.4|structured_history|default|low,GPT-5.4 (Low),time_pilot,190.0,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),air_raid,292.5,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),assault,102.9,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),beam_rider,198.0,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),boxing,-3.3,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),breakout,3.7,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),demon_attack,43.0,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),fishing_derby,-10.8,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),freeway,3.0,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),gopher,70.0,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),journey_escape,-1880.0,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),laser_gates,591.5,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),name_this_game,179.0909090909091,11
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),pacman,9.7,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),phoenix,261.6666666666667,12
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),qbert,295.8333333333333,6
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),riverraid,671.8181818181819,11
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),robotank,1.6,10
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),seaquest,53.333333333333336,9
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),tennis,-1.6363636363636365,11
+gpt-5.4-mini|structured_history|default|high,GPT-5.4 Mini (High),time_pilot,225.0,8
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),air_raid,247.5,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),assault,189.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),beam_rider,149.6,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),boxing,-5.7,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),breakout,3.5,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),demon_attack,41.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),fishing_derby,-10.2,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),freeway,3.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),gopher,36.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),journey_escape,-4320.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),laser_gates,343.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),name_this_game,214.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),pacman,13.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),phoenix,178.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),qbert,225.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),riverraid,402.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),robotank,1.2,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),seaquest,26.0,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),tennis,-1.7,10
+gpt-5.4-mini|structured_history|default|low,GPT-5.4 Mini (Low),time_pilot,180.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),air_raid,217.5,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),assault,105.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),beam_rider,158.4,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),boxing,-2.5,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),breakout,3.9,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),demon_attack,38.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),fishing_derby,-8.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),freeway,3.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),gopher,16.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),journey_escape,-6910.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),laser_gates,309.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),name_this_game,206.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),pacman,13.9,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),phoenix,142.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),qbert,220.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),riverraid,448.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),robotank,1.3,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),seaquest,16.0,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),tennis,-2.6,10
+gpt-5.4-mini|structured_history|none|none,GPT-5.4 Mini (None),time_pilot,180.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),air_raid,215.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),assault,147.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),beam_rider,140.8,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),boxing,-6.5,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),breakout,4.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),demon_attack,44.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),fishing_derby,-8.2,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),freeway,3.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),gopher,28.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),journey_escape,-6370.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),laser_gates,703.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),name_this_game,206.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),pacman,10.8,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),phoenix,268.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),qbert,227.5,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),riverraid,296.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),robotank,1.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),seaquest,80.0,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),tennis,-2.6,10
+claude-opus-4-6|structured_history|default|high,Claude Opus 4.6 (High),time_pilot,120.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),air_raid,272.5,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),assault,161.7,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),beam_rider,127.6,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),boxing,-5.6,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),breakout,3.5,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),demon_attack,47.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),fishing_derby,-7.6,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),freeway,3.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),gopher,4.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),journey_escape,-330.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),laser_gates,212.5,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),name_this_game,229.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),pacman,24.8,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),phoenix,220.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),qbert,232.5,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),riverraid,600.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),robotank,0.6,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),seaquest,64.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),tennis,-3.0,10
+claude-opus-4-6|structured_history|default|low,Claude Opus 4.6 (Low),time_pilot,200.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),air_raid,297.5,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),assault,159.6,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),beam_rider,158.4,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),boxing,-7.1,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),breakout,3.1,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),demon_attack,58.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),fishing_derby,-6.4,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),freeway,3.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),gopher,0.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),journey_escape,-2040.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),laser_gates,457.5,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),name_this_game,233.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),pacman,15.1,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),phoenix,226.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),qbert,250.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),riverraid,592.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),robotank,1.7,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),seaquest,42.0,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),tennis,-2.4,10
+claude-sonnet-4-6|structured_history|default|high,Claude Sonnet 4.6 (High),time_pilot,180.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),air_raid,235.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),assault,136.5,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),beam_rider,123.2,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),boxing,-4.9,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),breakout,3.2,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),demon_attack,45.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),fishing_derby,-8.6,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),freeway,3.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),gopher,2.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),journey_escape,-2460.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),laser_gates,80.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),name_this_game,217.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),pacman,17.7,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),phoenix,222.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),qbert,222.5,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),riverraid,770.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),robotank,1.5,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),seaquest,38.0,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),tennis,-1.9,10
+claude-sonnet-4-6|structured_history|default|low,Claude Sonnet 4.6 (Low),time_pilot,200.0,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),air_raid,222.22222222222223,9
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),assault,147.0,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),beam_rider,30.8,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),boxing,-1.4,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),breakout,1.1,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),demon_attack,40.0,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),fishing_derby,-9.6,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),freeway,2.9,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),gopher,18.0,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),journey_escape,-8370.0,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),laser_gates,40.0,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),name_this_game,194.44444444444446,9
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),pacman,9.7,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),phoenix,74.0,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),qbert,180.55555555555554,9
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),riverraid,693.3333333333334,9
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),robotank,0.7,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),seaquest,22.0,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),tennis,-1.4,10
+deepseek-ai/deepseek-v3.1|structured_history|off|none,DeepSeek V3.1 (None),time_pilot,180.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),air_raid,165.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),assault,178.5,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),beam_rider,154.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),boxing,-2.2,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),breakout,1.8,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),demon_attack,39.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),fishing_derby,-10.4,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),freeway,3.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),gopher,2.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),journey_escape,-6344.444444444444,9
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),laser_gates,207.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),name_this_game,185.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),pacman,9.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),phoenix,146.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),qbert,230.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),riverraid,707.0,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),robotank,0.7,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),seaquest,15.555555555555555,9
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),tennis,-2.5,10
+zai-org/glm-5.1|structured_history|off|none,GLM 5.1 (None),time_pilot,170.0,10
+sample_factory_appo,Sample Factory APPO,air_raid,752.5,10
+sample_factory_appo,Sample Factory APPO,assault,380.1,10
+sample_factory_appo,Sample Factory APPO,beam_rider,220.0,10
+sample_factory_appo,Sample Factory APPO,boxing,51.1,10
+sample_factory_appo,Sample Factory APPO,breakout,7.0,10
+sample_factory_appo,Sample Factory APPO,demon_attack,70.0,10
+sample_factory_appo,Sample Factory APPO,fishing_derby,9.0,10
+sample_factory_appo,Sample Factory APPO,freeway,4.0,10
+sample_factory_appo,Sample Factory APPO,gopher,158.0,10
+sample_factory_appo,Sample Factory APPO,journey_escape,-450.0,10
+sample_factory_appo,Sample Factory APPO,laser_gates,515.0,10
+sample_factory_appo,Sample Factory APPO,name_this_game,305.0,10
+sample_factory_appo,Sample Factory APPO,pacman,562.0,10
+sample_factory_appo,Sample Factory APPO,phoenix,326.0,10
+sample_factory_appo,Sample Factory APPO,qbert,830.0,10
+sample_factory_appo,Sample Factory APPO,riverraid,1983.0,10
+sample_factory_appo,Sample Factory APPO,robotank,3.9,10
+sample_factory_appo,Sample Factory APPO,seaquest,244.0,10
+sample_factory_appo,Sample Factory APPO,tennis,1.1,10
+sample_factory_appo,Sample Factory APPO,time_pilot,1090.0,10
+random|structured_history|off|none,Random (None),air_raid,265.0,10
+random|structured_history|off|none,Random (None),assault,102.9,10
+random|structured_history|off|none,Random (None),beam_rider,127.6,10
+random|structured_history|off|none,Random (None),boxing,-3.4,10
+random|structured_history|off|none,Random (None),breakout,1.3,10
+random|structured_history|off|none,Random (None),demon_attack,49.0,10
+random|structured_history|off|none,Random (None),fishing_derby,-11.4,10
+random|structured_history|off|none,Random (None),freeway,0.0,10
+random|structured_history|off|none,Random (None),gopher,14.0,10
+random|structured_history|off|none,Random (None),journey_escape,-6690.0,10
+random|structured_history|off|none,Random (None),laser_gates,145.0,10
+random|structured_history|off|none,Random (None),name_this_game,180.0,10
+random|structured_history|off|none,Random (None),pacman,10.5,10
+random|structured_history|off|none,Random (None),phoenix,188.0,10
+random|structured_history|off|none,Random (None),qbert,120.0,10
+random|structured_history|off|none,Random (None),riverraid,398.0,10
+random|structured_history|off|none,Random (None),robotank,0.4,10
+random|structured_history|off|none,Random (None),seaquest,32.0,10
+random|structured_history|off|none,Random (None),tennis,-2.4210526315789473,19
+random|structured_history|off|none,Random (None),time_pilot,140.0,10

@@ -69,6 +69,16 @@ python ataribench_dopamine/evaluate_all_30s.py \
 Missing checkpoints are skipped by default. Use `--no-skip-missing` to fail
 instead.
 
+After batch eval, `evaluate_all_30s.py` also generates the overall heatmap:
+
+```text
+ataribench_dopamine/result_heatmap/plot_heatmap_raw_with_dopamine.png
+```
+
+The heatmap uses frozen baseline values stored in
+`ataribench_dopamine/result_heatmap/baseline_scores.csv`, including the
+Sample Factory APPO RL row. Use `--no-plot-heatmap` to skip this step.
+
 ## Download Legacy Checkpoint
 
 The old Dopamine/Lucid checkpoints are stored as three TensorFlow files:
