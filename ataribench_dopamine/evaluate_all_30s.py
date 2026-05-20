@@ -9,7 +9,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from dopamine_games import PAPER_GAMES, normalize_game
+from dopamine_games import DEFAULT_EVAL_GAMES, normalize_game
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -27,7 +27,7 @@ def parse_args() -> argparse.Namespace:
         default=RL_BASELINES_ROOT / "checkpoints/dopamine/train_dir/dqn",
     )
     parser.add_argument("--result-root", type=Path, default=RL_BASELINES_ROOT / "results/dopamine_tf_dqn")
-    parser.add_argument("--games", nargs="*", default=list(PAPER_GAMES))
+    parser.add_argument("--games", nargs="*", default=list(DEFAULT_EVAL_GAMES))
     parser.add_argument("--seed", type=int, default=1111)
     parser.add_argument("--num-runs", type=int, default=10)
     parser.add_argument("--seed-start", type=int, default=0)

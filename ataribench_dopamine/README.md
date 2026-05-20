@@ -48,7 +48,7 @@ Batch eval assumes checkpoints live at:
 ../checkpoints/dopamine/train_dir/dqn/<game>/seed_1111/checkpoints/
 ```
 
-Run all AtariBench paper games with available checkpoints:
+Run the default eval set with available checkpoints:
 
 ```bash
 python ataribench_dopamine/evaluate_all_30s.py \
@@ -98,10 +98,16 @@ Then run the single-checkpoint command above.
 - `3` raw frames per selected DQN action
 - raw ALE reward, not clipped reward
 
-Supported game slugs:
+`ATARIBENCH_GAMES` / default eval slugs:
 
 ```text
 air_raid assault beam_rider boxing breakout demon_attack fishing_derby freeway
-gopher journey_escape laser_gates name_this_game pacman phoenix qbert riverraid
+gopher ice_hockey journey_escape name_this_game pacman phoenix qbert riverraid
 robotank seaquest tennis time_pilot
+```
+
+Explicit-only slugs:
+
+```text
+laser_gates
 ```

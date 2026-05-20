@@ -11,7 +11,7 @@ class DopamineGame:
     dopamine_name: str
 
 
-PAPER_GAMES: tuple[str, ...] = (
+ATARIBENCH_GAMES: tuple[str, ...] = (
     "air_raid",
     "assault",
     "beam_rider",
@@ -21,8 +21,8 @@ PAPER_GAMES: tuple[str, ...] = (
     "fishing_derby",
     "freeway",
     "gopher",
+    "ice_hockey",
     "journey_escape",
-    "laser_gates",
     "name_this_game",
     "pacman",
     "phoenix",
@@ -34,6 +34,12 @@ PAPER_GAMES: tuple[str, ...] = (
     "time_pilot",
 )
 
+EXTRA_GAMES: tuple[str, ...] = (
+    "laser_gates",
+)
+
+DEFAULT_EVAL_GAMES: tuple[str, ...] = ATARIBENCH_GAMES
+
 GAME_TO_DOPAMINE: dict[str, DopamineGame] = {
     "air_raid": DopamineGame("air_raid", "AirRaid"),
     "assault": DopamineGame("assault", "Assault"),
@@ -44,6 +50,7 @@ GAME_TO_DOPAMINE: dict[str, DopamineGame] = {
     "fishing_derby": DopamineGame("fishing_derby", "FishingDerby"),
     "freeway": DopamineGame("freeway", "Freeway"),
     "gopher": DopamineGame("gopher", "Gopher"),
+    "ice_hockey": DopamineGame("ice_hockey", "IceHockey"),
     "journey_escape": DopamineGame("journey_escape", "JourneyEscape"),
     "laser_gates": DopamineGame("laser_gates", "LaserGates"),
     "name_this_game": DopamineGame("name_this_game", "NameThisGame"),
